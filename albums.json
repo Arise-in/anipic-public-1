@@ -18,5 +18,17 @@
     "totalSize": 0,
     "repository": "anipic-public-1",
     "tags": []
+  },
+  {
+    "id": "5RsQEk",
+    "name": "Images",
+    "description": "",
+    "createdAt": "2026-01-20T06:50:58.639Z",
+    "imageCount": 0,
+    "totalSize": 0,
+    "repository": "anipic-public-1",
+    "tags": [],
+    "owner": "Im-mortals",
+    "images": []
   }
 ]
